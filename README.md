@@ -11,11 +11,6 @@ This project aims to provide a collection of educational toys for children. It o
 
 ## Accessing the Educational Toys
 
-To access the collection of educational toys, you can visit the following URLs:
-
-- Development API: [https://educational-toys-server-jabedweb.vercel.app/toys](https://educational-toys-server-jabedweb.vercel.app/toys)
-- Production API: [https://educational-toys-server-ruddy.vercel.app/toys](https://educational-toys-server-ruddy.vercel.app/toys)
-
 Feel free to explore the toys and enjoy the learning experience they provide!
 
 "# educational-toys-server" 
